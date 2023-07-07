@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://brizhak.github.io/project-FullStackFamily-v2",
+  "homepage": "https://GoitStudentsWorks.github.io/js_82_brizhak",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-FullStackFamily-v2/"
+    "build": "parcel build src/*.html --public-url /js_82_brizhak/"
   },
   "repository": {
     "type": "git",
